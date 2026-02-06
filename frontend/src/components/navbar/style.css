@@ -1,0 +1,12 @@
+.containerNavbar{
+    background-color: #ccc;
+    height: 100px;
+    width: 100%;
+}
+
+.containerTitulo{
+    padding-top: 1.2%;
+    display: flex;
+    justify-content: end;
+    margin-right: 1%;
+}
